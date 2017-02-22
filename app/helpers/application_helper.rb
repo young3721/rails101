@@ -1,3 +1,2 @@
 module ApplicationHelper
-  <%= yield %>
 end
